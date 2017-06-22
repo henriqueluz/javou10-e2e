@@ -1,0 +1,19 @@
+{
+  "name": "javou10-e2e",
+  "version": "0.1.0",
+  "description": "A sample e2e test app",
+  "dependencies": {},
+  "devDependencies": {
+    "wdio-spec-reporter": "0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henriqueluz/javou10-e2e"
+  },
+  "keywords": [
+    "webdriverio",
+    "e2e",
+    "testing"
+  ],
+  "author": "Henrique Luz"
+}

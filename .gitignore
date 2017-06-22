@@ -1,2 +1,4 @@
 *.jar
 geckodriver
+node_modules/*
+.DS_Store
