@@ -1,2 +1,2 @@
-# javou10-e2e
-Tests E2E Sample 
+# End-to-end Testing Sample for #Javou10
+ 
