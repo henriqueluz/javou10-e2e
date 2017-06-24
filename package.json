@@ -2,8 +2,12 @@
   "name": "javou10-e2e",
   "version": "0.1.0",
   "description": "A sample e2e test app",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio wdio.conf.js"
+  },
   "dependencies": {},
   "devDependencies": {
+    "wdio-jasmine-framework": "^0.3.1",
     "wdio-spec-reporter": "0.0.5"
   },
   "repository": {
